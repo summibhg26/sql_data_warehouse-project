@@ -32,7 +32,7 @@ This project involves:
 
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -58,7 +58,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 data-warehouse-project/
 │
@@ -86,6 +86,6 @@ data-warehouse-project/
 ```
 ---
 
-## 🌟 About Me
+## About Me
 
 Hi there! I'm **Sumit Bahuguna**. I’m an engineer with 7+ years of healthcare domain expertise making my way into data. 
